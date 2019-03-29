@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+    Semantic HTML are elements that signify meaning in your HTML. Whereas,
+    presentational HTML is sectioning off your code. It doesn't help convey what your code actually is doing.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+    Inline display doesn't have line breaks. Block display can have line breaks.
+
 3. What are the 4 areas of the box model?
+    the four layers in the box model are: margin, border, padding, and content.
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+    Vertical axis.
+
 5. Explain why git is valuable to a team of developers.
+
+    The utility of git is that it allow multiple developers to work an the same code base without conflicting, deleting or overwriting each others' work.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
