@@ -196,3 +196,10 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* about css */
+
+.about-container {
+    border-bottom: 1px black dashed;
+    margin: 15px; 
+}
