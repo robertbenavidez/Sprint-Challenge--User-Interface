@@ -199,7 +199,20 @@ footer nav a {
 
 /* about css */
 
-.about-container {
+.about-top-content {
+   
     border-bottom: 1px black dashed;
     margin: 15px; 
+    padding: 10px 0 30px 0;
+}
+.about-text {
+    width: 80%;
+    padding: 0 1%;
+}
+
+.grid {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 33%;
 }
